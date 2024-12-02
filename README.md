@@ -11,7 +11,7 @@
   - **Responsive Design**: Optimized for various devices to ensure a consistent user experience.
 
 ## Technologies Used
-  - **Frontend**: Angular, TypeScript, HTML5, CSS3
+  - **Frontend**: Angular, TypeScript, HTML5, CSS3,bootstrap
   - **Backend**: ASP.NET Core Web API
   - **Database**: Microsoft SQL Server
   - **Styling**: Bootstrap, SCSS
